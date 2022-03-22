@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['LibGit/Specl.py', 'Git3Steps.py', 'LibGit/Attenuation.py', 'LibGit/GitResults.py', 'LibGit/Sources.py', 'LibGit/EvtGit.py', 'LibGit/StatGit.py', 'LibGit/Conf.py', 'LibGit/Stations.py', 'LibGit/InputFas.py', 'main.py', '../anaconda3/lib/python3.9/site-packages/pandas/core/internals/managers.py', 'LibGit/PlotAttenuation']
+
+[main]
+version = 0.2.0
+recent_files = ['Git3Steps.py', 'PlotAttenuation.py', 'PlotFAS.py', 'PlotSources.py', 'LibGit/Attenuation.py', 'LibGit/Stations.py', 'LibGit/StatGit.py', 'LibGit/Sources.py']
+
